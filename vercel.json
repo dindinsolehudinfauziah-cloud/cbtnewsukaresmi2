@@ -1,0 +1,12 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/admin/users/:id",
+      "destination": "/api/admin/users?id=:id"
+    },
+    {
+      "source": "/((?!api/).*)",
+      "destination": "/index.html"
+    }
+  ]
+}

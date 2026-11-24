@@ -1,0 +1,6 @@
+{
+  "name": "CBT SMP Negeri 2 Sukaresmi",
+  "description": "Aplikasi Ujian Semester Online (CBT) SMP Negeri 2 Sukaresmi berbasis React, TypeScript, Tailwind CSS, dan Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
